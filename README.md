@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:bababa,100:ededed&height=180&text=Hi,%20I'm%20Seohyun😺&animation=&fontColor=ffffff&fontSize=50" />
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:5d8377,100:fefbfb&height=180&text=Hi,%20I'm%20Seohyun😺&animation=&fontColor=ffffff&fontSize=50" />
+    </div>
+    
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 </h2>  
