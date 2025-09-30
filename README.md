@@ -1,7 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d2f1fe,100:ebd7fe&height=120&text=Hi,%20I'm%20Seohyun🤚&animation=fadeIn&fontColor=696969&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffe5fa,100:dee3fc&height=240&text=Hi,%20I'm%20Seohyun!%20😺&animation=&fontColor=ffffff&fontSize=50" />
     </div>
-    <div style="text-align: left;"> 
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 자기소개 내용</li>자기소개 내용 </div> 
     </div>
@@ -25,8 +25,11 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=seohyunlee-coding&custom_title=가나다's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=seohyunlee-coding&custom_title=seohyunlee-coding's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunlee-coding&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
+          /> </div> 
     </div>
+
+
+    
     
