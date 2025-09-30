@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:5d8377,100:fefbfb&height=180&text=Hi,%20I'm%20Seohyun😺&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d8377,100:fefbfb&height=180&text=Hi,%20I'm%20Seohyun😺&animation=&fontColor=ffffff&fontSize=50" />
     </div>
+    
     
 
 <div style="text-align: left;">
