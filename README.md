@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" style="margin:3px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="margin:3px;">
 
- <br>
+ <br> <br>
 
   <p><strong>Framework</strong></p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="margin:3px;">
@@ -29,8 +29,14 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" style="margin:3px;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="margin:3px;">
 
+
+ <br> <br>
+
   <p><strong>Database</strong></p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin:3px;">
+
+
+ <br> <br>
 
   <p><strong>DevOps</strong></p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" style="margin:3px;">
