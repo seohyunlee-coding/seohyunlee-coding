@@ -4,7 +4,8 @@
 
 <div style="text-align: left;">
   <h2 style="margin-top: 0px; border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 소개 Introduction </h2>
-  <p>🐱 능력 있는 엔지니어로 성장하고자 하는 백엔드 개발자 🐱</p>
+  <p><strong>🐱 능력 있는 엔지니어로 성장하고자 하는 백엔드 개발자 🐱</strong></p>
+    <br>
   <p>🌼 <strong>Name</strong>: 이서현 Seohyun Lee</p>
   <p>💻 <strong>Tech</strong>: 백엔드 개발자 Backend Developer</p>
   <p>✉️ <strong>E-Mail</strong>: cwijiq3085@gmail.com</p>
@@ -15,7 +16,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 Tech Stacks </h2>
 
-  <p><strong>Language</strong></p>
+  <p>Language</p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" style="margin:3px;">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" style="margin:3px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="margin:3px;">
