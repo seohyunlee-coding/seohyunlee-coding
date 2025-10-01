@@ -6,6 +6,7 @@
 <div style="text-align: left;">
   <h2 style="margin-top: 0px; border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 소개 Introduction </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+    <p><strong>🐱능력 있는 엔지니어로 성장하고자 하는 백엔드 개발자 🐱</strong></p>   
   <p>🌼 <strong>Name</strong></p>
   <ul>
     <li>이서현 Seohyun Lee</li>
