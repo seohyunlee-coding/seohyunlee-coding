@@ -60,9 +60,17 @@
 <br><br>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 깃허브 스탯 Stats </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 스탯 Stats </h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunlee-coding&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000">
     <img src="https://github-readme-stats.vercel.app/api?username=seohyunlee-coding&custom_title=seohyunlee-coding%27s%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunlee-coding&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000">
+    
   </p>
+</div>
+
+
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎠 알고리즘 Algorithm </h2>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mgogfc)](https://solved.ac/mgogfc/)
+
 </div>
