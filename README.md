@@ -15,17 +15,19 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 Tech Stacks </h2>
- <!-- Language 블록 -->
+<div style="text-align: left; max-width: 800px; margin: 0 auto;"> 
+
+  <!-- Language 블록 -->
   <p><strong>Language</strong></p>
-  <div style="margin-bottom: 40px;"> <!-- 배지만 감싸기 -->
+  <div> <!-- 배지만 감싸기, 제목과 붙어 있음 -->
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" style="margin:3px;">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" style="margin:3px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="margin:3px;">
   </div>
 
   <!-- Framework 블록 -->
-  <p><strong>Framework</strong></p>
-  <div style="margin-bottom: 40px;">
+  <div style="margin-top: 40px;"> <!-- 위 블록과 간격만 띄움 -->
+    <p><strong>Framework</strong></p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="margin:3px;">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" style="margin:3px;">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" style="margin:3px;">
@@ -33,16 +35,18 @@
   </div>
 
   <!-- Database 블록 -->
-  <p><strong>Database</strong></p>
-  <div style="margin-bottom: 40px;">
+  <div style="margin-top: 40px;">
+    <p><strong>Database</strong></p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin:3px;">
   </div>
 
   <!-- DevOps 블록 -->
-  <p><strong>DevOps</strong></p>
-  <div style="margin-bottom: 40px;">
+  <div style="margin-top: 40px;">
+    <p><strong>DevOps</strong></p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" style="margin:3px;">
   </div>
+
+</div>
 
 
 <br><br>
