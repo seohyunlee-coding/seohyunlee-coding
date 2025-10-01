@@ -5,9 +5,20 @@
     
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 </h2>  
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 소개 Introduction </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    자기소개 내용
+**🌼 Name**
+
+- 이서현  Seohyun Lee
+
+**💻 Tech**
+
+- 백엔드 개발자 Backend Developer
+
+**✉️ E-Mail**
+
+- cwijiq3085@gmail.com
+
   </div>
 </div>
 
