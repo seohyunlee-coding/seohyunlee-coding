@@ -68,9 +68,12 @@
   </p>
 </div>
 
+<br><br>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎠 알고리즘 Algorithm </h2>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mgogfc)](https://solved.ac/mgogfc/)
-
+  <a href="https://solved.ac/mgogfc/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mgogfc" alt="Solved.ac Profile"/>
+  </a>
 </div>
+
